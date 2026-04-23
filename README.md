@@ -2,6 +2,9 @@
 
 KYLR is a fully functional, high-fidelity UPI payments application built with a modern Android stack. It adheres to NPCI guidelines for device binding and transaction flows while providing an editorial, high-end user experience inspired by top-tier financial dashboards.
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/fbf514d3-5275-466e-98b2-d72200fab5b8" />
+
+
 ## 🚀 Features
 
 - **KYLR Vault™**: A proprietary, high-security transaction pipeline that handles settlements, balance management, and ledger updates.
